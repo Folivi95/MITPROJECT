@@ -1,5 +1,3 @@
-# HCI simulator for kids (MIT Project)
-Project is a HCI focused web training program for kids. It provides the interact needed to make learning web languages fun
 ## Usage
     1. Clone project
     2. install in a server (I used a php server in my case to avoid the CORS issue).
